@@ -1,0 +1,585 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="320" height="320">
+
+<g id="chart-background-container"><rect id="chart-background-color" width="320" height="320" fill="#FFFFFF" stroke="none" fill-opacity="1.0"/></g><g id="chart-container"><g id="i35" class="top-level-node" transform="translate(-216,288)"><g><g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<polygon fill="#CC291F" points="64,0.4 95.6,16.2 95.6,39.8 32,71.6 0.4,55.8 0.4,32.2  "/>
+	<path opacity="0.25" d="M72,21v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H72z"/>
+	<ellipse fill="#CC291F" cx="64" cy="21" rx="8" ry="4"/>
+	<path opacity="0.25" d="M72,5v3c0,2.2-3.6,4-8,4s-8-1.8-8-4V5H72z"/>
+	<ellipse fill="#CC291F" cx="64" cy="5" rx="8" ry="4"/>
+	<path opacity="0.25" d="M88,13v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H88z"/>
+	<ellipse fill="#CC291F" cx="80" cy="13" rx="8" ry="4"/>
+	<path opacity="0.25" d="M56,13v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H56z"/>
+	<ellipse fill="#CC291F" cx="48" cy="13" rx="8" ry="4"/>
+	<polygon opacity="0.29" points="95.6,39.8 32,71.6 32,48 95.6,16.2  "/>
+	<polygon opacity="0.11" points="0.4,55.8 32,71.6 32,48 0.4,32.2  "/>
+	<path opacity="0.25" d="M40,37v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H40z"/>
+	<ellipse fill="#CC291F" cx="32" cy="37" rx="8" ry="4"/>
+	<path opacity="0.25" d="M40,21v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H40z"/>
+	<ellipse fill="#CC291F" cx="32" cy="21" rx="8" ry="4"/>
+	<path opacity="0.25" d="M56,29v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H56z"/>
+	<ellipse fill="#CC291F" cx="48" cy="29" rx="8" ry="4"/>
+	<path opacity="0.25" d="M24,29v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H24z"/>
+	<ellipse fill="#CC291F" cx="16" cy="29" rx="8" ry="4"/>
+</g>
+</g></g></g><g id="i69" class="top-level-node" transform="translate(-200,440)"><g><g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<polygon fill="#CC291F" points="48,0.4 32.4,8.2 0.4,30.2 0.4,31.8 32,47.6 63.6,31.8 63.6,8.2  "/>
+	<polygon opacity="9.000000e-002" points="0.4,31.8 32,47.6 32,46 48,16 32.4,8.2 0.4,30.2  "/>
+	<polygon opacity="9.000000e-002" points="0.4,31.8 32,47.6 32,46 0.4,30.2  "/>
+	<polygon opacity="0.29" points="63.6,31.8 32,47.6 32,46 48,16 63.6,8.2  "/>
+	<path opacity="0.25" d="M40,5v3c0,2.2,3.6,4,8,4s8-1.8,8-4V5H40z"/>
+	<ellipse fill="#CC291F" cx="48" cy="5" rx="8" ry="4"/>
+</g>
+</g></g></g><g id="i98" class="top-level-node" transform="translate(80,120)"><g><g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<polygon fill="#CC291F" points="32.4,8.2 64,0.4 79.6,8.2 79.6,31.8 48,47.6 0.4,23.8 0.4,22.2  "/>
+	<path opacity="0.25" d="M72,5v3c0,2.2-3.6,4-8,4s-8-1.8-8-4V5H72z"/>
+	<polygon opacity="0.29" points="79.6,8.2 79.6,31.8 48,47.6 48,24  "/>
+	<polygon opacity="0.11" points="48,24 48,47.6 0.4,23.8 0.4,22.2 32.4,16.2  "/>
+	<path opacity="0.25" d="M56,13v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H56z"/>
+	<ellipse fill="#CC291F" cx="48" cy="13" rx="8" ry="4"/>
+	<polygon opacity="5.000000e-002" points="32.4,16.2 64,0.4 32.4,8.2 0.4,22.2  "/>
+	<ellipse fill="#CC291F" cx="64" cy="5" rx="8" ry="4"/>
+</g>
+</g></g></g><g id="i97" class="top-level-node" transform="translate(48,136)"><g><g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<polygon fill="#CC291F" points="32.4,8.2 64,0.4 79.6,8.2 79.6,31.8 48,47.6 0.4,23.8 0.4,22.2  "/>
+	<path opacity="0.25" d="M72,5v3c0,2.2-3.6,4-8,4s-8-1.8-8-4V5H72z"/>
+	<polygon opacity="0.29" points="79.6,8.2 79.6,31.8 48,47.6 48,24  "/>
+	<polygon opacity="0.11" points="48,24 48,47.6 0.4,23.8 0.4,22.2 32.4,16.2  "/>
+	<path opacity="0.25" d="M56,13v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H56z"/>
+	<ellipse fill="#CC291F" cx="48" cy="13" rx="8" ry="4"/>
+	<polygon opacity="5.000000e-002" points="32.4,16.2 64,0.4 32.4,8.2 0.4,22.2  "/>
+	<ellipse fill="#CC291F" cx="64" cy="5" rx="8" ry="4"/>
+</g>
+</g></g></g><g id="i94" class="top-level-node" transform="translate(48,144)"><g><g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<polygon fill="#3366cc" points="48,0.4 32.4,8.2 0.4,30.2 0.4,31.8 32,47.6 63.6,31.8 63.6,8.2  "/>
+	<polygon opacity="9.000000e-002" points="0.4,31.8 32,47.6 32,46 48,16 32.4,8.2 0.4,30.2  "/>
+	<polygon opacity="9.000000e-002" points="0.4,31.8 32,47.6 32,46 0.4,30.2  "/>
+	<polygon opacity="0.29" points="63.6,31.8 32,47.6 32,46 48,16 63.6,8.2  "/>
+	<path opacity="0.25" d="M40,5v3c0,2.2,3.6,4,8,4s8-1.8,8-4V5H40z"/>
+	<ellipse fill="#3366cc" cx="48" cy="5" rx="8" ry="4"/>
+</g>
+</g></g></g><g id="i101" class="top-level-node" transform="translate(152,120)"><g><g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<polygon fill="#CC291F" points="47.6,8.2 16,0.4 0.4,8.2 0.4,31.8 32,47.6 79.6,23.8 79.6,22.2  "/>
+	<path opacity="0.25" d="M8,5v3c0,2.2,3.6,4,8,4s8-1.8,8-4V5H8z"/>
+	<polygon opacity="0.11" points="0.4,8.2 0.4,31.8 32,47.6 32,24  "/>
+	<polygon opacity="0.29" points="32,24 32,47.6 79.6,23.8 79.6,22.2 47.6,16.2  "/>
+	<path opacity="0.25" d="M24,13v3c0,2.2,3.6,4,8,4s8-1.8,8-4v-3H24z"/>
+	<ellipse fill="#CC291F" cx="32" cy="13" rx="8" ry="4"/>
+	<polygon opacity="5.000000e-002" points="47.6,16.2 16,0.4 47.6,8.2 79.6,22.2  "/>
+	<ellipse fill="#CC291F" cx="16" cy="5" rx="8" ry="4"/>
+</g>
+</g></g></g><g id="i102" class="top-level-node" transform="translate(184,136)"><g><g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<polygon fill="#CC291F" points="47.6,8.2 16,0.4 0.4,8.2 0.4,31.8 32,47.6 79.6,23.8 79.6,22.2  "/>
+	<path opacity="0.25" d="M8,5v3c0,2.2,3.6,4,8,4s8-1.8,8-4V5H8z"/>
+	<polygon opacity="0.11" points="0.4,8.2 0.4,31.8 32,47.6 32,24  "/>
+	<polygon opacity="0.29" points="32,24 32,47.6 79.6,23.8 79.6,22.2 47.6,16.2  "/>
+	<path opacity="0.25" d="M24,13v3c0,2.2,3.6,4,8,4s8-1.8,8-4v-3H24z"/>
+	<ellipse fill="#CC291F" cx="32" cy="13" rx="8" ry="4"/>
+	<polygon opacity="5.000000e-002" points="47.6,16.2 16,0.4 47.6,8.2 79.6,22.2  "/>
+	<ellipse fill="#CC291F" cx="16" cy="5" rx="8" ry="4"/>
+</g>
+</g></g></g><g id="i86" class="top-level-node" transform="translate(96,128)"><g><g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<polygon fill="#CC291F" points="64,0.4 95.6,16.2 95.6,39.8 32,71.6 0.4,55.8 0.4,32.2  "/>
+	<path opacity="0.25" d="M72,21v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H72z"/>
+	<ellipse fill="#CC291F" cx="64" cy="21" rx="8" ry="4"/>
+	<path opacity="0.25" d="M72,5v3c0,2.2-3.6,4-8,4s-8-1.8-8-4V5H72z"/>
+	<ellipse fill="#CC291F" cx="64" cy="5" rx="8" ry="4"/>
+	<path opacity="0.25" d="M88,13v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H88z"/>
+	<ellipse fill="#CC291F" cx="80" cy="13" rx="8" ry="4"/>
+	<path opacity="0.25" d="M56,13v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H56z"/>
+	<ellipse fill="#CC291F" cx="48" cy="13" rx="8" ry="4"/>
+	<polygon opacity="0.29" points="95.6,39.8 32,71.6 32,48 95.6,16.2  "/>
+	<polygon opacity="0.11" points="0.4,55.8 32,71.6 32,48 0.4,32.2  "/>
+	<path opacity="0.25" d="M40,37v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H40z"/>
+	<ellipse fill="#CC291F" cx="32" cy="37" rx="8" ry="4"/>
+	<path opacity="0.25" d="M40,21v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H40z"/>
+	<ellipse fill="#CC291F" cx="32" cy="21" rx="8" ry="4"/>
+	<path opacity="0.25" d="M56,29v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H56z"/>
+	<ellipse fill="#CC291F" cx="48" cy="29" rx="8" ry="4"/>
+	<path opacity="0.25" d="M24,29v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H24z"/>
+	<ellipse fill="#CC291F" cx="16" cy="29" rx="8" ry="4"/>
+</g>
+</g></g></g><g id="i84" class="top-level-node" transform="translate(128,144)"><g><g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<polygon fill="#CC291F" points="64,0.4 95.6,16.2 95.6,39.8 32,71.6 0.4,55.8 0.4,32.2  "/>
+	<path opacity="0.25" d="M72,21v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H72z"/>
+	<ellipse fill="#CC291F" cx="64" cy="21" rx="8" ry="4"/>
+	<path opacity="0.25" d="M72,5v3c0,2.2-3.6,4-8,4s-8-1.8-8-4V5H72z"/>
+	<ellipse fill="#CC291F" cx="64" cy="5" rx="8" ry="4"/>
+	<path opacity="0.25" d="M88,13v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H88z"/>
+	<ellipse fill="#CC291F" cx="80" cy="13" rx="8" ry="4"/>
+	<path opacity="0.25" d="M56,13v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H56z"/>
+	<ellipse fill="#CC291F" cx="48" cy="13" rx="8" ry="4"/>
+	<polygon opacity="0.29" points="95.6,39.8 32,71.6 32,48 95.6,16.2  "/>
+	<polygon opacity="0.11" points="0.4,55.8 32,71.6 32,48 0.4,32.2  "/>
+	<path opacity="0.25" d="M40,37v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H40z"/>
+	<ellipse fill="#CC291F" cx="32" cy="37" rx="8" ry="4"/>
+	<path opacity="0.25" d="M40,21v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H40z"/>
+	<ellipse fill="#CC291F" cx="32" cy="21" rx="8" ry="4"/>
+	<path opacity="0.25" d="M56,29v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H56z"/>
+	<ellipse fill="#CC291F" cx="48" cy="29" rx="8" ry="4"/>
+	<path opacity="0.25" d="M24,29v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H24z"/>
+	<ellipse fill="#CC291F" cx="16" cy="29" rx="8" ry="4"/>
+</g>
+</g></g></g><g id="i103" class="top-level-node" transform="translate(216,152)"><g><g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<polygon fill="#3366cc" points="16,0.4 31.6,8.2 63.6,30.2 63.6,31.8 32,47.6 0.4,31.8 0.4,8.2  "/>
+	<polygon opacity="0.19" points="63.6,31.8 32,47.6 32,46 16,16 31.6,8.2 63.6,30.2  "/>
+	<polygon opacity="0.19" points="63.6,31.8 32,47.6 32,46 63.6,30.2  "/>
+	<polygon opacity="0.11" points="0.4,31.8 32,47.6 32,46 16,16 0.4,8.2  "/>
+	<path opacity="0.25" d="M24,5v3c0,2.2-3.6,4-8,4s-8-1.8-8-4V5H24z"/>
+	<ellipse fill="#3366cc" cx="16" cy="5" rx="8" ry="4"/>
+</g>
+</g></g></g><g id="i90" class="top-level-node" transform="translate(192,160)"><g><g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<polygon fill="#CC291F" points="32,0.4 47.6,8.2 79.6,46.2 79.6,47.8 48,63.6 0.4,39.8 0.4,16.2  "/>
+	<polygon opacity="0.19" points="79.6,47.8 48,63.6 48,62 16,24 47.6,8.2 79.6,46.2  "/>
+	<polygon opacity="0.19" points="79.6,47.8 48,63.6 48,62 79.6,46.2  "/>
+	<polygon opacity="0.11" points="0.4,39.8 48,63.6 48,62 16,24 0.4,16.2  "/>
+	<path opacity="0.25" d="M40,5v3c0,2.2-3.6,4-8,4s-8-1.8-8-4V5H40z"/>
+	<ellipse fill="#CC291F" cx="32" cy="5" rx="8" ry="4"/>
+	<path opacity="0.25" d="M24,13v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H24z"/>
+	<ellipse fill="#CC291F" cx="16" cy="13" rx="8" ry="4"/>
+</g>
+</g></g></g><g id="i85" class="top-level-node" transform="translate(-280,272)"><g><g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<polygon fill="#CC291F" points="32,0.4 0.4,16.2 0.4,39.8 64,71.6 95.6,55.8 95.6,32.2  "/>
+	<path opacity="0.25" d="M24,21v3c0,2.2,3.6,4,8,4s8-1.8,8-4v-3H24z"/>
+	<ellipse fill="#CC291F" cx="32" cy="21" rx="8" ry="4"/>
+	<path opacity="0.25" d="M24,5v3c0,2.2,3.6,4,8,4s8-1.8,8-4V5H24z"/>
+	<ellipse fill="#CC291F" cx="32" cy="5" rx="8" ry="4"/>
+	<path opacity="0.25" d="M8,13v3c0,2.2,3.6,4,8,4s8-1.8,8-4v-3H8z"/>
+	<ellipse fill="#CC291F" cx="16" cy="13" rx="8" ry="4"/>
+	<path opacity="0.25" d="M40,13v3c0,2.2,3.6,4,8,4s8-1.8,8-4v-3H40z"/>
+	<ellipse fill="#CC291F" cx="48" cy="13" rx="8" ry="4"/>
+	<polygon opacity="0.11" points="0.4,39.8 64,71.6 64,48 0.4,16.2  "/>
+	<polygon opacity="0.29" points="95.6,55.8 64,71.6 64,48 95.6,32.2  "/>
+	<path opacity="0.25" d="M56,37v3c0,2.2,3.6,4,8,4s8-1.8,8-4v-3H56z"/>
+	<ellipse fill="#CC291F" cx="64" cy="37" rx="8" ry="4"/>
+	<path opacity="0.25" d="M56,21v3c0,2.2,3.6,4,8,4s8-1.8,8-4v-3H56z"/>
+	<ellipse fill="#CC291F" cx="64" cy="21" rx="8" ry="4"/>
+	<path opacity="0.25" d="M40,29v3c0,2.2,3.6,4,8,4s8-1.8,8-4v-3H40z"/>
+	<ellipse fill="#CC291F" cx="48" cy="29" rx="8" ry="4"/>
+	<path opacity="0.25" d="M72,29v3c0,2.2,3.6,4,8,4s8-1.8,8-4v-3H72z"/>
+	<ellipse fill="#CC291F" cx="80" cy="29" rx="8" ry="4"/>
+</g>
+</g></g></g><g id="i87" class="top-level-node" transform="translate(48,160)"><g><g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<polygon fill="#CC291F" points="48,0.4 32.4,8.2 0.4,46.2 0.4,47.8 32,63.6 79.6,39.8 79.6,16.2  "/>
+	<polygon opacity="9.000000e-002" points="0.4,47.8 32,63.6 32,62 64,24 32.4,8.2 0.4,46.2  "/>
+	<polygon opacity="9.000000e-002" points="0.4,47.8 32,63.6 32,62 0.4,46.2  "/>
+	<polygon opacity="0.29" points="79.6,39.8 32,63.6 32,62 64,24 79.6,16.2  "/>
+	<path opacity="0.25" d="M40,5v3c0,2.2,3.6,4,8,4s8-1.8,8-4V5H40z"/>
+	<ellipse fill="#CC291F" cx="48" cy="5" rx="8" ry="4"/>
+	<path opacity="0.25" d="M56,13v3c0,2.2,3.6,4,8,4s8-1.8,8-4v-3H56z"/>
+	<ellipse fill="#CC291F" cx="64" cy="13" rx="8" ry="4"/>
+</g>
+</g></g></g><g id="i89" class="top-level-node" transform="translate(240,176)scale(-1,1)"><g><g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<polygon fill="#CC291F" points="48,0.4 32.4,8.2 0.4,46.2 0.4,47.8 32,63.6 79.6,39.8 79.6,16.2  "/>
+	<polygon opacity="0.19" points="0.4,47.8 32,63.6 32,62 64,24 32.4,8.2 0.4,46.2  "/>
+	<polygon opacity="0.19" points="0.4,47.8 32,63.6 32,62 0.4,46.2  "/>
+	<polygon opacity="0.11" points="79.6,39.8 32,63.6 32,62 64,24 79.6,16.2  "/>
+	<path opacity="0.25" d="M40,5v3c0,2.2,3.6,4,8,4s8-1.8,8-4V5H40z"/>
+	<ellipse fill="#CC291F" cx="48" cy="5" rx="8" ry="4"/>
+	<path opacity="0.25" d="M56,13v3c0,2.2,3.6,4,8,4s8-1.8,8-4v-3H56z"/>
+	<ellipse fill="#CC291F" cx="64" cy="13" rx="8" ry="4"/>
+</g>
+</g></g></g><g id="i88" class="top-level-node" transform="translate(80,176)"><g><g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<polygon fill="#CC291F" points="48,0.4 32.4,8.2 0.4,46.2 0.4,47.8 32,63.6 79.6,39.8 79.6,16.2  "/>
+	<polygon opacity="9.000000e-002" points="0.4,47.8 32,63.6 32,62 64,24 32.4,8.2 0.4,46.2  "/>
+	<polygon opacity="9.000000e-002" points="0.4,47.8 32,63.6 32,62 0.4,46.2  "/>
+	<polygon opacity="0.29" points="79.6,39.8 32,63.6 32,62 64,24 79.6,16.2  "/>
+	<path opacity="0.25" d="M40,5v3c0,2.2,3.6,4,8,4s8-1.8,8-4V5H40z"/>
+	<ellipse fill="#CC291F" cx="48" cy="5" rx="8" ry="4"/>
+	<path opacity="0.25" d="M56,13v3c0,2.2,3.6,4,8,4s8-1.8,8-4v-3H56z"/>
+	<ellipse fill="#CC291F" cx="64" cy="13" rx="8" ry="4"/>
+</g>
+</g></g></g><g id="i93" class="top-level-node" transform="translate(128,192)"><g><g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<polygon fill="#3366cc" points="47.6,8.2 32,0.4 16.4,8.2 0.4,38.2 0.4,39.8 32,55.6 63.6,39.8 63.6,38.2  "/>
+	<polygon opacity="9.000000e-002" points="0.4,39.8 32,55.6 32,16 16.4,8.2 0.4,38.2  "/>
+	<polygon opacity="9.000000e-002" points="0.4,39.8 32,55.6 32,54 0.4,38.2  "/>
+	<path opacity="0.25" d="M24,5v3c0,2.2,3.6,4,8,4s8-1.8,8-4V5H24z"/>
+	<ellipse fill="#3366cc" cx="32" cy="5" rx="8" ry="4"/>
+	<polygon opacity="0.19" points="63.6,39.8 32,55.6 32,16 47.6,8.2 63.6,38.2  "/>
+	<polygon opacity="0.19" points="63.6,39.8 32,55.6 32,54 63.6,38.2  "/>
+</g>
+</g></g></g><g id="i96" class="top-level-node" transform="translate(-200,488)"><g><g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<polygon fill="#CC291F" points="32,0.4 47.6,8.2 79.6,46.2 79.6,47.8 48,63.6 0.4,39.8 0.4,16.2  "/>
+	<polygon opacity="0.19" points="79.6,47.8 48,63.6 48,62 16,24 47.6,8.2 79.6,46.2  "/>
+	<polygon opacity="0.19" points="79.6,47.8 48,63.6 48,62 79.6,46.2  "/>
+	<polygon opacity="0.11" points="0.4,39.8 48,63.6 48,62 16,24 0.4,16.2  "/>
+	<path opacity="0.25" d="M40,5v3c0,2.2-3.6,4-8,4s-8-1.8-8-4V5H40z"/>
+	<ellipse fill="#CC291F" cx="32" cy="5" rx="8" ry="4"/>
+	<path opacity="0.25" d="M24,13v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H24z"/>
+	<ellipse fill="#CC291F" cx="16" cy="13" rx="8" ry="4"/>
+</g>
+</g></g></g><g id="i106" class="top-level-node" transform="translate(-320,104)"><g><g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<polygon fill="#CC291F" points="16,0.4 0.4,8.2 0.4,15.8 64,47.6 79.6,39.8 79.6,32.2  "/>
+	<path opacity="0.25" d="M8,5v3c0,2.2,3.6,4,8,4s8-1.8,8-4V5H8z"/>
+	<ellipse fill="#CC291F" cx="16" cy="5" rx="8" ry="4"/>
+	<polygon opacity="0.11" points="0.4,8.2 0.4,15.8 64,47.6 64,40  "/>
+	<polygon opacity="0.29" points="64,40 64,47.6 79.6,39.8 79.6,32.2  "/>
+	<path opacity="0.25" d="M24,13v3c0,2.2,3.6,4,8,4s8-1.8,8-4v-3H24z"/>
+	<ellipse fill="#CC291F" cx="32" cy="13" rx="8" ry="4"/>
+	<path opacity="0.25" d="M40,21v3c0,2.2,3.6,4,8,4s8-1.8,8-4v-3H40z"/>
+	<ellipse fill="#CC291F" cx="48" cy="21" rx="8" ry="4"/>
+	<path opacity="0.25" d="M56,29v3c0,2.2,3.6,4,8,4s8-1.8,8-4v-3H56z"/>
+	<ellipse fill="#CC291F" cx="64" cy="29" rx="8" ry="4"/>
+</g>
+</g></g></g><g id="i107" class="top-level-node" transform="translate(24,88)"><g><g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<polygon fill="#656565" points="16,0.4 0.4,8.2 0.4,15.8 64,47.6 79.6,39.8 79.6,32.2  "/>
+	<path opacity="0.25" d="M8,5v3c0,2.2,3.6,4,8,4s8-1.8,8-4V5H8z"/>
+	<ellipse fill="#656565" cx="16" cy="5" rx="8" ry="4"/>
+	<polygon opacity="0.11" points="0.4,8.2 0.4,15.8 64,47.6 64,40  "/>
+	<polygon opacity="0.29" points="64,40 64,47.6 79.6,39.8 79.6,32.2  "/>
+	<path opacity="0.25" d="M24,13v3c0,2.2,3.6,4,8,4s8-1.8,8-4v-3H24z"/>
+	<ellipse fill="#656565" cx="32" cy="13" rx="8" ry="4"/>
+	<path opacity="0.25" d="M40,21v3c0,2.2,3.6,4,8,4s8-1.8,8-4v-3H40z"/>
+	<ellipse fill="#656565" cx="48" cy="21" rx="8" ry="4"/>
+	<path opacity="0.25" d="M56,29v3c0,2.2,3.6,4,8,4s8-1.8,8-4v-3H56z"/>
+	<ellipse fill="#656565" cx="64" cy="29" rx="8" ry="4"/>
+</g>
+</g></g></g><g id="i109" class="top-level-node" transform="translate(192,96)"><g><g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<polygon fill="#656565" points="64,0.4 79.6,8.2 79.6,15.8 16,47.6 0.4,39.8 0.4,32.2  "/>
+	<path opacity="0.25" d="M72,5v3c0,2.2-3.6,4-8,4s-8-1.8-8-4V5H72z"/>
+	<ellipse fill="#656565" cx="64" cy="5" rx="8" ry="4"/>
+	<polygon opacity="0.29" points="79.6,8.2 79.6,15.8 16,47.6 16,40  "/>
+	<polygon opacity="0.11" points="16,40 16,47.6 0.4,39.8 0.4,32.2  "/>
+	<path opacity="0.25" d="M56,13v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H56z"/>
+	<ellipse fill="#656565" cx="48" cy="13" rx="8" ry="4"/>
+	<path opacity="0.25" d="M40,21v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H40z"/>
+	<ellipse fill="#656565" cx="32" cy="21" rx="8" ry="4"/>
+	<path opacity="0.25" d="M24,29v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H24z"/>
+	<ellipse fill="#656565" cx="16" cy="29" rx="8" ry="4"/>
+</g>
+</g></g></g><g id="i128" class="top-level-node" transform="translate(144,72)"><g><g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<polygon fill="#656565" points="64,0.4 79.6,8.2 79.6,15.8 16,47.6 0.4,39.8 0.4,32.2  "/>
+	<path opacity="0.25" d="M72,5v3c0,2.2-3.6,4-8,4s-8-1.8-8-4V5H72z"/>
+	<ellipse fill="#656565" cx="64" cy="5" rx="8" ry="4"/>
+	<polygon opacity="0.29" points="79.6,8.2 79.6,15.8 16,47.6 16,40  "/>
+	<polygon opacity="0.11" points="16,40 16,47.6 0.4,39.8 0.4,32.2  "/>
+	<path opacity="0.25" d="M56,13v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H56z"/>
+	<ellipse fill="#656565" cx="48" cy="13" rx="8" ry="4"/>
+	<path opacity="0.25" d="M40,21v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H40z"/>
+	<ellipse fill="#656565" cx="32" cy="21" rx="8" ry="4"/>
+	<path opacity="0.25" d="M24,29v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H24z"/>
+	<ellipse fill="#656565" cx="16" cy="29" rx="8" ry="4"/>
+</g>
+</g></g></g><g id="i127" class="top-level-node" transform="translate(72,64)"><g><g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<polygon fill="#656565" points="16,0.4 0.4,8.2 0.4,15.8 64,47.6 79.6,39.8 79.6,32.2  "/>
+	<path opacity="0.25" d="M8,5v3c0,2.2,3.6,4,8,4s8-1.8,8-4V5H8z"/>
+	<ellipse fill="#656565" cx="16" cy="5" rx="8" ry="4"/>
+	<polygon opacity="0.11" points="0.4,8.2 0.4,15.8 64,47.6 64,40  "/>
+	<polygon opacity="0.29" points="64,40 64,47.6 79.6,39.8 79.6,32.2  "/>
+	<path opacity="0.25" d="M24,13v3c0,2.2,3.6,4,8,4s8-1.8,8-4v-3H24z"/>
+	<ellipse fill="#656565" cx="32" cy="13" rx="8" ry="4"/>
+	<path opacity="0.25" d="M40,21v3c0,2.2,3.6,4,8,4s8-1.8,8-4v-3H40z"/>
+	<ellipse fill="#656565" cx="48" cy="21" rx="8" ry="4"/>
+	<path opacity="0.25" d="M56,29v3c0,2.2,3.6,4,8,4s8-1.8,8-4v-3H56z"/>
+	<ellipse fill="#656565" cx="64" cy="29" rx="8" ry="4"/>
+</g>
+</g></g></g><g id="i123" class="top-level-node" transform="translate(160,88)"><g><g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<polygon fill="#CC291F" points="16,0.4 0.4,8.2 0.4,15.8 64,47.6 79.6,39.8 79.6,32.2  "/>
+	<path opacity="0.25" d="M8,5v3c0,2.2,3.6,4,8,4s8-1.8,8-4V5H8z"/>
+	<ellipse fill="#CC291F" cx="16" cy="5" rx="8" ry="4"/>
+	<polygon opacity="0.11" points="0.4,8.2 0.4,15.8 64,47.6 64,40  "/>
+	<polygon opacity="0.29" points="64,40 64,47.6 79.6,39.8 79.6,32.2  "/>
+	<path opacity="0.25" d="M24,13v3c0,2.2,3.6,4,8,4s8-1.8,8-4v-3H24z"/>
+	<ellipse fill="#CC291F" cx="32" cy="13" rx="8" ry="4"/>
+	<path opacity="0.25" d="M40,21v3c0,2.2,3.6,4,8,4s8-1.8,8-4v-3H40z"/>
+	<ellipse fill="#CC291F" cx="48" cy="21" rx="8" ry="4"/>
+	<path opacity="0.25" d="M56,29v3c0,2.2,3.6,4,8,4s8-1.8,8-4v-3H56z"/>
+	<ellipse fill="#CC291F" cx="64" cy="29" rx="8" ry="4"/>
+</g>
+</g></g></g><g id="i114" class="top-level-node" transform="translate(64,80)"><g><g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<polygon fill="#CC291F" points="64,0.4 95.6,16.2 95.6,23.8 32,55.6 0.4,39.8 0.4,32.2  "/>
+	<path opacity="0.25" d="M72,21v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H72z"/>
+	<ellipse fill="#CC291F" cx="64" cy="21" rx="8" ry="4"/>
+	<path opacity="0.25" d="M72,5v3c0,2.2-3.6,4-8,4s-8-1.8-8-4V5H72z"/>
+	<ellipse fill="#CC291F" cx="64" cy="5" rx="8" ry="4"/>
+	<path opacity="0.25" d="M88,13v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H88z"/>
+	<ellipse fill="#CC291F" cx="80" cy="13" rx="8" ry="4"/>
+	<path opacity="0.25" d="M56,13v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H56z"/>
+	<ellipse fill="#CC291F" cx="48" cy="13" rx="8" ry="4"/>
+	<polygon opacity="0.29" points="95.6,23.8 32,55.6 32,48 95.6,16.2  "/>
+	<polygon opacity="0.11" points="0.4,39.8 32,55.6 32,48 0.4,32.2  "/>
+	<path opacity="0.25" d="M40,37v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H40z"/>
+	<ellipse fill="#CC291F" cx="32" cy="37" rx="8" ry="4"/>
+	<path opacity="0.25" d="M40,21v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H40z"/>
+	<ellipse fill="#CC291F" cx="32" cy="21" rx="8" ry="4"/>
+	<path opacity="0.25" d="M56,29v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H56z"/>
+	<ellipse fill="#CC291F" cx="48" cy="29" rx="8" ry="4"/>
+	<path opacity="0.25" d="M24,29v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H24z"/>
+	<ellipse fill="#CC291F" cx="16" cy="29" rx="8" ry="4"/>
+</g>
+</g></g></g><g id="i115" class="top-level-node" transform="translate(-96,552)"><g><g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<polygon fill="#CC291F" points="32,0.4 63.6,16.2 63.6,39.8 32,55.6 16.4,47.8 0.4,17.8 0.4,16.2  "/>
+	<polygon opacity="0.29" points="63.6,39.8 32,55.6 32,32 63.6,16.2  "/>
+	<polygon opacity="0.11" points="16.4,47.8 32,55.6 32,32 0.4,16.2 0.4,17.8  "/>
+	<polygon opacity="0.29" points="32,16 18,23 4,16 32,2  "/>
+	<polygon opacity="0.11" points="46,9 32,16 32,2  "/>
+	<polygon fill="#CC291F" points="18,23 10,19 10,14 26,14 26,19  "/>
+	<polygon opacity="0.25" points="18,23 10,19 10,14 26,14 26,19  "/>
+	<ellipse fill="#CC291F" cx="18" cy="14" rx="8" ry="4"/>
+	<ellipse opacity="0.25" cx="18" cy="14" rx="6" ry="3"/>
+	<polygon fill="#CC291F" points="42,11 26,19 26,6 42,6  "/>
+	<polygon opacity="0.25" points="42,11 26,19 26,6 42,6  "/>
+	<ellipse fill="#CC291F" cx="34" cy="6" rx="8" ry="4"/>
+	<ellipse opacity="0.25" cx="34" cy="6" rx="6" ry="3"/>
+	<path opacity="0.25" d="M40,21v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H40z"/>
+	<ellipse fill="#CC291F" cx="32" cy="21" rx="8" ry="4"/>
+	<path opacity="0.25" d="M56,13v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H56z"/>
+	<ellipse fill="#CC291F" cx="48" cy="13" rx="8" ry="4"/>
+</g>
+</g></g></g><g id="i122" class="top-level-node" transform="translate(144,96)"><g><g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<polygon fill="#CC291F" points="16,0.4 0.4,8.2 0.4,15.8 64,47.6 79.6,39.8 79.6,32.2  "/>
+	<path opacity="0.25" d="M8,5v3c0,2.2,3.6,4,8,4s8-1.8,8-4V5H8z"/>
+	<ellipse fill="#CC291F" cx="16" cy="5" rx="8" ry="4"/>
+	<polygon opacity="0.11" points="0.4,8.2 0.4,15.8 64,47.6 64,40  "/>
+	<polygon opacity="0.29" points="64,40 64,47.6 79.6,39.8 79.6,32.2  "/>
+	<path opacity="0.25" d="M24,13v3c0,2.2,3.6,4,8,4s8-1.8,8-4v-3H24z"/>
+	<ellipse fill="#CC291F" cx="32" cy="13" rx="8" ry="4"/>
+	<path opacity="0.25" d="M40,21v3c0,2.2,3.6,4,8,4s8-1.8,8-4v-3H40z"/>
+	<ellipse fill="#CC291F" cx="48" cy="21" rx="8" ry="4"/>
+	<path opacity="0.25" d="M56,29v3c0,2.2,3.6,4,8,4s8-1.8,8-4v-3H56z"/>
+	<ellipse fill="#CC291F" cx="64" cy="29" rx="8" ry="4"/>
+</g>
+</g></g></g><g id="i117" class="top-level-node" transform="translate(192,136)"><g><g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<polygon fill="#CC291F" points="32,0.4 63.6,16.2 63.6,18.2 47.6,31.8 16,47.6 0.4,39.8 0.4,16.2  "/>
+	<polygon opacity="0.19" points="47.6,31.8 16,47.6 32,34 32,32 63.6,16.2 63.6,18.2  "/>
+	<polygon opacity="0.19" points="32,34 63.6,18.2 47.6,31.8 16,47.6  "/>
+	<polygon opacity="0.11" points="0.4,39.8 16,47.6 32,34 32,32 0.4,16.2  "/>
+	<polygon opacity="0.29" points="46,23 32,30 18,23 46,9  "/>
+	<polygon opacity="0.11" points="60,16 46,23 46,9  "/>
+	<polygon fill="#CC291F" points="32,30 24,26 24,21 40,21 40,26  "/>
+	<polygon opacity="0.25" points="32,30 24,26 24,21 40,21 40,26  "/>
+	<ellipse fill="#CC291F" cx="32" cy="21" rx="8" ry="4"/>
+	<ellipse opacity="0.25" cx="32" cy="21" rx="6" ry="3"/>
+	<path opacity="0.25" d="M40,5v3c0,2.2-3.6,4-8,4s-8-1.8-8-4V5L40,5z"/>
+	<ellipse fill="#CC291F" cx="32" cy="5" rx="8" ry="4"/>
+	<polygon fill="#CC291F" points="56,18 40,26 40,13 56,13  "/>
+	<polygon opacity="0.25" points="56,18 40,26 40,13 56,13  "/>
+	<ellipse fill="#CC291F" cx="48" cy="13" rx="8" ry="4"/>
+	<path opacity="0.25" d="M24,13v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H24z"/>
+	<ellipse fill="#CC291F" cx="16" cy="13" rx="8" ry="4"/>
+	<ellipse opacity="0.25" cx="48" cy="13" rx="6" ry="3"/>
+</g>
+</g></g></g><g id="i111" class="top-level-node" transform="translate(224,144)"><g><g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<polygon fill="#656565" points="16,0.4 0.4,8.2 0.4,15.8 64,47.6 79.6,39.8 79.6,32.2  "/>
+	<path opacity="0.25" d="M8,5v3c0,2.2,3.6,4,8,4s8-1.8,8-4V5H8z"/>
+	<ellipse fill="#656565" cx="16" cy="5" rx="8" ry="4"/>
+	<polygon opacity="0.11" points="0.4,8.2 0.4,15.8 64,47.6 64,40  "/>
+	<polygon opacity="0.29" points="64,40 64,47.6 79.6,39.8 79.6,32.2  "/>
+	<path opacity="0.25" d="M24,13v3c0,2.2,3.6,4,8,4s8-1.8,8-4v-3H24z"/>
+	<ellipse fill="#656565" cx="32" cy="13" rx="8" ry="4"/>
+	<path opacity="0.25" d="M40,21v3c0,2.2,3.6,4,8,4s8-1.8,8-4v-3H40z"/>
+	<ellipse fill="#656565" cx="48" cy="21" rx="8" ry="4"/>
+	<path opacity="0.25" d="M56,29v3c0,2.2,3.6,4,8,4s8-1.8,8-4v-3H56z"/>
+	<ellipse fill="#656565" cx="64" cy="29" rx="8" ry="4"/>
+</g>
+</g></g></g><g id="i119" class="top-level-node" transform="translate(80,128)"><g><g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<polygon fill="#CC291F" points="32,0.4 0.4,16.2 0.4,18.2 16.4,31.8 48,47.6 63.6,39.8 63.6,16.2  "/>
+	<polygon opacity="9.000000e-002" points="16.4,31.8 48,47.6 32,34 32,32 0.4,16.2 0.4,18.2  "/>
+	<polygon opacity="9.000000e-002" points="32,34 0.4,18.2 16.4,31.8 48,47.6  "/>
+	<polygon opacity="0.29" points="63.6,39.8 48,47.6 32,34 32,32 63.6,16.2  "/>
+	<polygon opacity="0.11" points="18,23 32,30 46,23 18,9  "/>
+	<polygon opacity="0.29" points="4,16 18,23 18,9  "/>
+	<polygon fill="#CC291F" points="32,30 40,26 40,21 24,21 24,26  "/>
+	<polygon opacity="0.25" points="32,30 40,26 40,21 24,21 24,26  "/>
+	<ellipse fill="#CC291F" cx="32" cy="21" rx="8" ry="4"/>
+	<ellipse opacity="0.25" cx="32" cy="21" rx="6" ry="3"/>
+	<path opacity="0.25" d="M24,5v3c0,2.2,3.6,4,8,4s8-1.8,8-4V5H24z"/>
+	<ellipse fill="#CC291F" cx="32" cy="5" rx="8" ry="4"/>
+	<polygon fill="#CC291F" points="8,18 24,26 24,13 8,13  "/>
+	<polygon opacity="0.25" points="8,18 24,26 24,13 8,13  "/>
+	<ellipse fill="#CC291F" cx="16" cy="13" rx="8" ry="4"/>
+	<path opacity="0.25" d="M40,13v3c0,2.2,3.6,4,8,4s8-1.8,8-4v-3H40z"/>
+	<ellipse fill="#CC291F" cx="48" cy="13" rx="8" ry="4"/>
+	<ellipse opacity="0.25" cx="16" cy="13" rx="6" ry="3"/>
+</g>
+</g></g></g><g id="i118" class="top-level-node" transform="translate(112,144)"><g><g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<polygon fill="#CC291F" points="32,0.4 0.4,16.2 0.4,18.2 16.4,31.8 48,47.6 63.6,39.8 63.6,16.2  "/>
+	<polygon opacity="9.000000e-002" points="16.4,31.8 48,47.6 32,34 32,32 0.4,16.2 0.4,18.2  "/>
+	<polygon opacity="9.000000e-002" points="32,34 0.4,18.2 16.4,31.8 48,47.6  "/>
+	<polygon opacity="0.29" points="63.6,39.8 48,47.6 32,34 32,32 63.6,16.2  "/>
+	<polygon opacity="0.11" points="18,23 32,30 46,23 18,9  "/>
+	<polygon opacity="0.29" points="4,16 18,23 18,9  "/>
+	<polygon fill="#CC291F" points="32,30 40,26 40,21 24,21 24,26  "/>
+	<polygon opacity="0.25" points="32,30 40,26 40,21 24,21 24,26  "/>
+	<ellipse fill="#CC291F" cx="32" cy="21" rx="8" ry="4"/>
+	<ellipse opacity="0.25" cx="32" cy="21" rx="6" ry="3"/>
+	<path opacity="0.25" d="M24,5v3c0,2.2,3.6,4,8,4s8-1.8,8-4V5H24z"/>
+	<ellipse fill="#CC291F" cx="32" cy="5" rx="8" ry="4"/>
+	<polygon fill="#CC291F" points="8,18 24,26 24,13 8,13  "/>
+	<polygon opacity="0.25" points="8,18 24,26 24,13 8,13  "/>
+	<ellipse fill="#CC291F" cx="16" cy="13" rx="8" ry="4"/>
+	<path opacity="0.25" d="M40,13v3c0,2.2,3.6,4,8,4s8-1.8,8-4v-3H40z"/>
+	<ellipse fill="#CC291F" cx="48" cy="13" rx="8" ry="4"/>
+	<ellipse opacity="0.25" cx="16" cy="13" rx="6" ry="3"/>
+</g>
+</g></g></g><g id="i125" class="top-level-node" transform="translate(32,136)"><g><g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<polygon fill="#656565" points="64,0.4 79.6,8.2 79.6,15.8 16,47.6 0.4,39.8 0.4,32.2  "/>
+	<path opacity="0.25" d="M72,5v3c0,2.2-3.6,4-8,4s-8-1.8-8-4V5H72z"/>
+	<ellipse fill="#656565" cx="64" cy="5" rx="8" ry="4"/>
+	<polygon opacity="0.29" points="79.6,8.2 79.6,15.8 16,47.6 16,40  "/>
+	<polygon opacity="0.11" points="16,40 16,47.6 0.4,39.8 0.4,32.2  "/>
+	<path opacity="0.25" d="M56,13v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H56z"/>
+	<ellipse fill="#656565" cx="48" cy="13" rx="8" ry="4"/>
+	<path opacity="0.25" d="M40,21v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H40z"/>
+	<ellipse fill="#656565" cx="32" cy="21" rx="8" ry="4"/>
+	<path opacity="0.25" d="M24,29v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H24z"/>
+	<ellipse fill="#656565" cx="16" cy="29" rx="8" ry="4"/>
+</g>
+</g></g></g><g id="i116" class="top-level-node" transform="translate(160,152)"><g><g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<polygon fill="#CC291F" points="32,0.4 63.6,16.2 63.6,18.2 47.6,31.8 16,47.6 0.4,39.8 0.4,16.2  "/>
+	<polygon opacity="0.19" points="47.6,31.8 16,47.6 32,34 32,32 63.6,16.2 63.6,18.2  "/>
+	<polygon opacity="0.19" points="32,34 63.6,18.2 47.6,31.8 16,47.6  "/>
+	<polygon opacity="0.11" points="0.4,39.8 16,47.6 32,34 32,32 0.4,16.2  "/>
+	<polygon opacity="0.29" points="46,23 32,30 18,23 46,9  "/>
+	<polygon opacity="0.11" points="60,16 46,23 46,9  "/>
+	<polygon fill="#CC291F" points="32,30 24,26 24,21 40,21 40,26  "/>
+	<polygon opacity="0.25" points="32,30 24,26 24,21 40,21 40,26  "/>
+	<ellipse fill="#CC291F" cx="32" cy="21" rx="8" ry="4"/>
+	<ellipse opacity="0.25" cx="32" cy="21" rx="6" ry="3"/>
+	<path opacity="0.25" d="M40,5v3c0,2.2-3.6,4-8,4s-8-1.8-8-4V5L40,5z"/>
+	<ellipse fill="#CC291F" cx="32" cy="5" rx="8" ry="4"/>
+	<polygon fill="#CC291F" points="56,18 40,26 40,13 56,13  "/>
+	<polygon opacity="0.25" points="56,18 40,26 40,13 56,13  "/>
+	<ellipse fill="#CC291F" cx="48" cy="13" rx="8" ry="4"/>
+	<path opacity="0.25" d="M24,13v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H24z"/>
+	<ellipse fill="#CC291F" cx="16" cy="13" rx="8" ry="4"/>
+	<ellipse opacity="0.25" cx="48" cy="13" rx="6" ry="3"/>
+</g>
+</g></g></g><g id="i121" class="top-level-node" transform="translate(80,104)"><g><g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<polygon fill="#CC291F" points="64,0.4 95.6,16.2 95.6,23.8 32,55.6 0.4,39.8 0.4,32.2  "/>
+	<path opacity="0.25" d="M72,21v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H72z"/>
+	<ellipse fill="#CC291F" cx="64" cy="21" rx="8" ry="4"/>
+	<path opacity="0.25" d="M72,5v3c0,2.2-3.6,4-8,4s-8-1.8-8-4V5H72z"/>
+	<ellipse fill="#CC291F" cx="64" cy="5" rx="8" ry="4"/>
+	<path opacity="0.25" d="M88,13v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H88z"/>
+	<ellipse fill="#CC291F" cx="80" cy="13" rx="8" ry="4"/>
+	<path opacity="0.25" d="M56,13v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H56z"/>
+	<ellipse fill="#CC291F" cx="48" cy="13" rx="8" ry="4"/>
+	<polygon opacity="0.29" points="95.6,23.8 32,55.6 32,48 95.6,16.2  "/>
+	<polygon opacity="0.11" points="0.4,39.8 32,55.6 32,48 0.4,32.2  "/>
+	<path opacity="0.25" d="M40,37v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H40z"/>
+	<ellipse fill="#CC291F" cx="32" cy="37" rx="8" ry="4"/>
+	<path opacity="0.25" d="M40,21v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H40z"/>
+	<ellipse fill="#CC291F" cx="32" cy="21" rx="8" ry="4"/>
+	<path opacity="0.25" d="M56,29v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H56z"/>
+	<ellipse fill="#CC291F" cx="48" cy="29" rx="8" ry="4"/>
+	<path opacity="0.25" d="M24,29v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H24z"/>
+	<ellipse fill="#CC291F" cx="16" cy="29" rx="8" ry="4"/>
+</g>
+</g></g></g><g id="i126" class="top-level-node" transform="translate(176,168)"><g><g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<polygon fill="#656565" points="16,0.4 0.4,8.2 0.4,15.8 64,47.6 79.6,39.8 79.6,32.2  "/>
+	<path opacity="0.25" d="M8,5v3c0,2.2,3.6,4,8,4s8-1.8,8-4V5H8z"/>
+	<ellipse fill="#656565" cx="16" cy="5" rx="8" ry="4"/>
+	<polygon opacity="0.11" points="0.4,8.2 0.4,15.8 64,47.6 64,40  "/>
+	<polygon opacity="0.29" points="64,40 64,47.6 79.6,39.8 79.6,32.2  "/>
+	<path opacity="0.25" d="M24,13v3c0,2.2,3.6,4,8,4s8-1.8,8-4v-3H24z"/>
+	<ellipse fill="#656565" cx="32" cy="13" rx="8" ry="4"/>
+	<path opacity="0.25" d="M40,21v3c0,2.2,3.6,4,8,4s8-1.8,8-4v-3H40z"/>
+	<ellipse fill="#656565" cx="48" cy="21" rx="8" ry="4"/>
+	<path opacity="0.25" d="M56,29v3c0,2.2,3.6,4,8,4s8-1.8,8-4v-3H56z"/>
+	<ellipse fill="#656565" cx="64" cy="29" rx="8" ry="4"/>
+</g>
+</g></g></g><g id="i104" class="top-level-node" transform="translate(80,160)"><g><g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<polygon fill="#656565" points="64,0.4 79.6,8.2 79.6,15.8 16,47.6 0.4,39.8 0.4,32.2  "/>
+	<path opacity="0.25" d="M72,5v3c0,2.2-3.6,4-8,4s-8-1.8-8-4V5H72z"/>
+	<ellipse fill="#656565" cx="64" cy="5" rx="8" ry="4"/>
+	<polygon opacity="0.29" points="79.6,8.2 79.6,15.8 16,47.6 16,40  "/>
+	<polygon opacity="0.11" points="16,40 16,47.6 0.4,39.8 0.4,32.2  "/>
+	<path opacity="0.25" d="M56,13v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H56z"/>
+	<ellipse fill="#656565" cx="48" cy="13" rx="8" ry="4"/>
+	<path opacity="0.25" d="M40,21v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H40z"/>
+	<ellipse fill="#656565" cx="32" cy="21" rx="8" ry="4"/>
+	<path opacity="0.25" d="M24,29v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H24z"/>
+	<ellipse fill="#656565" cx="16" cy="29" rx="8" ry="4"/>
+</g>
+</g></g></g><g id="i120" class="top-level-node" transform="translate(112,120)"><g><g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<polygon fill="#CC291F" points="64,0.4 95.6,16.2 95.6,23.8 32,55.6 0.4,39.8 0.4,32.2  "/>
+	<path opacity="0.25" d="M72,21v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H72z"/>
+	<ellipse fill="#CC291F" cx="64" cy="21" rx="8" ry="4"/>
+	<path opacity="0.25" d="M72,5v3c0,2.2-3.6,4-8,4s-8-1.8-8-4V5H72z"/>
+	<ellipse fill="#CC291F" cx="64" cy="5" rx="8" ry="4"/>
+	<path opacity="0.25" d="M88,13v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H88z"/>
+	<ellipse fill="#CC291F" cx="80" cy="13" rx="8" ry="4"/>
+	<path opacity="0.25" d="M56,13v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H56z"/>
+	<ellipse fill="#CC291F" cx="48" cy="13" rx="8" ry="4"/>
+	<polygon opacity="0.29" points="95.6,23.8 32,55.6 32,48 95.6,16.2  "/>
+	<polygon opacity="0.11" points="0.4,39.8 32,55.6 32,48 0.4,32.2  "/>
+	<path opacity="0.25" d="M40,37v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H40z"/>
+	<ellipse fill="#CC291F" cx="32" cy="37" rx="8" ry="4"/>
+	<path opacity="0.25" d="M40,21v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H40z"/>
+	<ellipse fill="#CC291F" cx="32" cy="21" rx="8" ry="4"/>
+	<path opacity="0.25" d="M56,29v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H56z"/>
+	<ellipse fill="#CC291F" cx="48" cy="29" rx="8" ry="4"/>
+	<path opacity="0.25" d="M24,29v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H24z"/>
+	<ellipse fill="#CC291F" cx="16" cy="29" rx="8" ry="4"/>
+</g>
+</g></g></g><g id="i113" class="top-level-node" transform="translate(160,128)"><g><g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<polygon fill="#CC291F" points="64,0.4 95.6,16.2 95.6,23.8 32,55.6 0.4,39.8 0.4,32.2  "/>
+	<path opacity="0.25" d="M72,21v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H72z"/>
+	<ellipse fill="#CC291F" cx="64" cy="21" rx="8" ry="4"/>
+	<path opacity="0.25" d="M72,5v3c0,2.2-3.6,4-8,4s-8-1.8-8-4V5H72z"/>
+	<ellipse fill="#CC291F" cx="64" cy="5" rx="8" ry="4"/>
+	<path opacity="0.25" d="M88,13v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H88z"/>
+	<ellipse fill="#CC291F" cx="80" cy="13" rx="8" ry="4"/>
+	<path opacity="0.25" d="M56,13v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H56z"/>
+	<ellipse fill="#CC291F" cx="48" cy="13" rx="8" ry="4"/>
+	<polygon opacity="0.29" points="95.6,23.8 32,55.6 32,48 95.6,16.2  "/>
+	<polygon opacity="0.11" points="0.4,39.8 32,55.6 32,48 0.4,32.2  "/>
+	<path opacity="0.25" d="M40,37v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H40z"/>
+	<ellipse fill="#CC291F" cx="32" cy="37" rx="8" ry="4"/>
+	<path opacity="0.25" d="M40,21v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H40z"/>
+	<ellipse fill="#CC291F" cx="32" cy="21" rx="8" ry="4"/>
+	<path opacity="0.25" d="M56,29v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H56z"/>
+	<ellipse fill="#CC291F" cx="48" cy="29" rx="8" ry="4"/>
+	<path opacity="0.25" d="M24,29v3c0,2.2-3.6,4-8,4s-8-1.8-8-4v-3H24z"/>
+	<ellipse fill="#CC291F" cx="16" cy="29" rx="8" ry="4"/>
+</g>
+</g></g></g><g id="i124" class="top-level-node" transform="translate(128,88)"><g><g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<polygon fill="#3366cc" points="47.6,8.2 32,0.4 16.4,8.2 0.4,38.2 0.4,39.8 32,55.6 63.6,39.8 63.6,38.2  "/>
+	<polygon opacity="9.000000e-002" points="0.4,39.8 32,55.6 32,16 16.4,8.2 0.4,38.2  "/>
+	<polygon opacity="9.000000e-002" points="0.4,39.8 32,55.6 32,54 0.4,38.2  "/>
+	<path opacity="0.25" d="M24,5v3c0,2.2,3.6,4,8,4s8-1.8,8-4V5H24z"/>
+	<ellipse fill="#3366cc" cx="32" cy="5" rx="8" ry="4"/>
+	<polygon opacity="0.19" points="63.6,39.8 32,55.6 32,16 47.6,8.2 63.6,38.2  "/>
+	<polygon opacity="0.19" points="63.6,39.8 32,55.6 32,54 63.6,38.2  "/>
+</g>
+</g></g></g></g>
+
+</svg>
